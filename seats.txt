@@ -1,0 +1,13 @@
+5#20000#Business Class#21400
+7#20000#Business Class#21400
+5#20000#Business Class#21400
+6#20000#Economy Class#20000
+6#20000#Business Class#21400
+1#15000#Business Class#16050
+30#15000#Business Class#16050
+15#20000#Business Class#21400
+15#20000#Economy Class#23000
+15#20000#Economy Class#20000
+15#20000#Business Class#21400
+8#30000#Business Class#32100
+8#30000#Economy Class#34500
